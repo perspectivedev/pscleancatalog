@@ -1,0 +1,17 @@
+{
+    "name": "perspective/pscleancatalog",
+    "description": "Collection of useful methods to clean the catalog",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Perspective",
+            "email": "dev@perspectiveweb.it"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Perspective\\CleanCatalog\\": "src"
+        }
+    }
+}
